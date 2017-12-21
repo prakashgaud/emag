@@ -5,10 +5,8 @@
 	* Models are PHP classes that are designed to work with information in your database.<br>
 	* This Model handles the Groups operations with data base<br>
 	* File: models/common_model.php<br>
-	* This class library is used for Emagic core functionality that<br>
-	* connects to Database and fetches data.<br>
-	* @copyright 2010 ESDS Software Solution Pvt Ltd
-	* @author Vikash Kumar
+	* This class library is used for 
+	* connects to Database and fetches data.<br>	
 	* @package Model
 	* @subpackage Common
 	*/
